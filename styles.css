@@ -1,0 +1,26 @@
+.first{
+    height: 200px;
+    background-color: green;
+}
+.second,.third{
+    display: inline-block;
+}
+.second{
+    margin-top: 10px;
+    height: 400px;
+    width: 1000px;
+    background-color: 	red;
+}
+.third{  
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 400px;
+    width: 480px;
+    background-color:#FF1493 ;
+}
+.fourth{
+    margin-top: 10px;
+    background-color :black ;
+    height: 200px;
+    
+}

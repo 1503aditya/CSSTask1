@@ -1,0 +1,38 @@
+body,
+html,
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.head {
+  height: 200px;
+  background-color: pink;
+}
+.section-body {
+  height: 400px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.section-body {
+  height: 400px;
+  margin-bottom: 20px;
+}
+.leftbar {
+  float: left;
+  height: 100%;
+  width: 60%;
+  background-color: rgb(87, 13, 80);
+}
+.rightbar {
+  height: 100%;
+  width: calc(40% - 20px);
+  float: right;
+  background-color: #ff1493;
+}
+.footer {
+  background-color: rgb(148, 72, 156);
+  height: 200px;
+}
